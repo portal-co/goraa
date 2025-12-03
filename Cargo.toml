@@ -1,0 +1,10 @@
+[workspace]
+members=[]
+resolver="3"
+
+[workspace.package]
+version = "0.1.0"
+license = "MPL-2.0"
+description = "Obfuscating compiler"
+
+[workspace.dependencies]
