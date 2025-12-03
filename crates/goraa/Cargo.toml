@@ -8,3 +8,4 @@ description.workspace = true
 [dependencies]
 portal-pc-asm-common.workspace = true
 portal-solutions-asm-x86-64.workspace = true
+rand = "0.9.2"
