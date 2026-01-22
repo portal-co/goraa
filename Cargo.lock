@@ -108,7 +108,7 @@ dependencies = [
 [[package]]
 name = "portal-solutions-asm-x86-64"
 version = "0.1.0"
-source = "git+https://github.com/portal-co/asm-arch.git#571402243579618d7ae5568bf949de5d04d86cf0"
+source = "git+https://github.com/portal-co/asm-arch.git#1bec80e0f9543c4e7168cfd46f020f8c30463469"
 dependencies = [
  "portal-pc-asm-common",
  "typeid",
