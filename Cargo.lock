@@ -95,7 +95,7 @@ dependencies = [
 [[package]]
 name = "portal-pc-asm-common"
 version = "0.1.1"
-source = "git+https://github.com/portal-co/asm-common.git#8f42683da616f6f13eaa32986aa7b1bf89244d09"
+source = "git+https://github.com/portal-co/asm-common.git#e8e6bddbf06ad095a0d4e5bcc758c720af3bb3a9"
 dependencies = [
  "array-init",
  "bitvec",
@@ -108,7 +108,7 @@ dependencies = [
 [[package]]
 name = "portal-solutions-asm-x86-64"
 version = "0.1.0"
-source = "git+https://github.com/portal-co/asm-arch.git#85ae1333c699340259688f7c4366ae3f449687d2"
+source = "git+https://github.com/portal-co/asm-arch.git#571402243579618d7ae5568bf949de5d04d86cf0"
 dependencies = [
  "portal-pc-asm-common",
  "typeid",
